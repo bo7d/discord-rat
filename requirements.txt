@@ -1,0 +1,1 @@
+pip install discord.py-self opencv-python mss pynput pillow requests pywin32 pycryptodome psutil numpy
