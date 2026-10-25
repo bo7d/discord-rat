@@ -1,0 +1,1 @@
+To do this you need to go into the file find line 134 and put you discord bot token then go to the next line and put your server id and thats it you can convert it to a exe if you want but thats your choice
